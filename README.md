@@ -1,2 +1,3 @@
 # Load-Test_JMeter-BarrigaReact
-Teste de carga na funcionalidade de Login do Sistema barrigaReact
+Teste de carga no seguinte fluxo: 
+Login -> Cadastrar movimentação -> Resetar Movimentação do Sistema barrigaReact

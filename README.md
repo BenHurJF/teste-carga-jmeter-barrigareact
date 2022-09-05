@@ -1,4 +1,3 @@
-# Load-Test_JMeter-BarrigaReact
 
 # Teste de "carga" utilizando a ferramenta JMeter
 - Fluxo 👇

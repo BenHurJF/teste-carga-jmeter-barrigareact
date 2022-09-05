@@ -1,5 +1,5 @@
 
-# Teste de "carga" utilizando a ferramenta JMeter na Aplicação web "practice.automationtesting.in"
+# Teste de carga utilizando o JMeter na Aplicação "practice.automationtesting.in" 😀
 
 - Fluxo 👇
 - Registro
@@ -9,3 +9,5 @@
 
 
 # Para obter relatório e métricas da execução do script rode o comando na pasta do arquivo .jmx:
+
+😀

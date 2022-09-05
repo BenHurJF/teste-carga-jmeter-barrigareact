@@ -1,6 +1,7 @@
 # Load-Test_JMeter-BarrigaReact
 
-# Teste de carga no seguinte fluxo: 
+# Teste de "carga" utilizando a ferramenta JMeter
+- Fluxo
 - Login -> Cadastrar movimentação -> Resetar Movimentação
 - do Sistema barrigaReact
 - Contexto: Checar até quantas movimentações o sistema aguenta cadastrar

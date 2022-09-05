@@ -1,12 +1,11 @@
 
-# Teste de "carga" utilizando a ferramenta JMeter
+# Teste de "carga" utilizando a ferramenta JMeter na Aplicação web "practice.automationtesting.in"
+
 - Fluxo 👇
-- Login
-- Cadastrar movimentação
-- Resetar Movimentação
-- Contexto: Checar até quantas movimentações o sistema aguenta cadastrar
+- Registro
+- ...
 
-# Para executar o script via terminal utilize o comando:
+# Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
 
 
-# Relatórios e métricas da execução
+# Para obter relatório e métricas da execução do script rode o comando na pasta do arquivo .jmx:

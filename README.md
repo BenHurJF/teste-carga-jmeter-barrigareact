@@ -1,7 +1,8 @@
 
 # Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
+-
 
-- Fluxo 👇
+# Fluxo 👇
 - Login
 - Ir para Shop/Loja
 - Adicionar produtos ao carrinho

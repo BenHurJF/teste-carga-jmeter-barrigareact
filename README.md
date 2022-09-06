@@ -8,12 +8,13 @@
 - Ir para Extrato e visualizar movimentação
 
 # Comandos
-- Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
+- Para executar o script via terminal e gerar log de resultados rode o comando na pasta do arquivo .jmx:
 
-. Test 
+- CAMINHO DO JMETER PASTA BIN + jmeter.bat -n -t BarrigaReact.jmx -l Resultado.jtl
+
 #
 - Para obter relatório e métricas da execução do script em Dashboard rode o comando na pasta do arquivo .jmx:
 
-. Test
+- CAMINHO DO JMETER PASTA BIN + jmeter.bat -n -t Load-Test-BarrigaReact.jmx -l Resultado.jtl -e -o NOME_DA_DASHBOARD
 
 😀

@@ -3,11 +3,9 @@
 
 # Fluxo 👇
 - Login
-- Ir para Shop/Loja
-- Adicionar produtos ao carrinho
-- Ir para o carrinho
-- Avançar para checkout
-- Realizar pagamento do tipo: 'Transferência bancária'
+- Ir para movimentações
+- Adicionar movimentação em "Conta para movimentações"
+- Ir para Extrato e visualizar movimentação
 
 # Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
 - 

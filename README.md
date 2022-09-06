@@ -1,9 +1,9 @@
 
 - Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
 #
-- Fluxo 👇
+# Fluxo 👇
 
-# Login
+. Login
 
 . Ir para movimentações
 

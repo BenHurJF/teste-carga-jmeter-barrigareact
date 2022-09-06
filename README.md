@@ -1,6 +1,6 @@
-
+# Sobre
 - Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
-#
+
 # Fluxo 👇
 
 . Login
@@ -11,7 +11,7 @@
 
 . Ir para Extrato e visualizar movimentação
 
-#
+# Comandos
 - Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
 
 . Test 

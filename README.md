@@ -1,5 +1,5 @@
 # Sobre
-- Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
+- Teste de carga utilizando o JMeter na Aplicação BarrigaReact do Professor [Wagner Aquino] 😀
 
 # Fluxo 👇
 - Login

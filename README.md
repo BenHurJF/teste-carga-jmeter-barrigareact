@@ -1,10 +1,14 @@
 
-# Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
-
+- Teste de carga utilizando o JMeter na Aplicação practice.automationtesting.in 😀
+#
 - Fluxo 👇
-. Login \br
+
+. Login
+
 . Ir para movimentações
+
 . Adicionar movimentação em "Conta para movimentações"
+
 . Ir para Extrato e visualizar movimentação
 
 #

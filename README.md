@@ -9,10 +9,10 @@
 - Ir para o carrinho
 - Avançar para checkout
 - Realizar pagamento do tipo: 'Transferência bancária'
-
-- Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
-
-
-- Para obter relatório e métricas da execução do script rode o comando na pasta do arquivo .jmx:
+#
+# Para executar o script via terminal rode o comando na pasta do arquivo .jmx:
+- 
+#
+# Para obter relatório e métricas da execução do script em Dashboard rode o comando na pasta do arquivo .jmx:
 
 😀

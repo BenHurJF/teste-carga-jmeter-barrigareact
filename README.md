@@ -7,7 +7,7 @@
 - Adicionar movimentação em "Conta para movimentações"
 - Ir para Extrato e visualizar movimentação
 
-# Comandos
+# Execução
 - Para executar o script via terminal e gerar log de resultados rode o comando na pasta do arquivo .jmx:
 
 - CAMINHO DO JMETER PASTA BIN/./jmeter.bat -n -t Load-Test-BarrigaReact.jmx -l Resultado.jtl

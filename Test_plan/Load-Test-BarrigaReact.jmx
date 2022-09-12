@@ -181,7 +181,7 @@
             <hashTree/>
             <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="Extrair conta Id" enabled="true">
               <stringProp name="JSONPostProcessor.referenceNames">contaId</stringProp>
-              <stringProp name="JSONPostProcessor.jsonPathExprs">$.[0].id</stringProp>
+              <stringProp name="JSONPostProcessor.jsonPathExprs">$.[0].conta_id</stringProp>
               <stringProp name="JSONPostProcessor.match_numbers"></stringProp>
               <stringProp name="JSONPostProcessor.defaultValues">NOT FOUND</stringProp>
             </JSONPostProcessor>
@@ -193,7 +193,7 @@
               <collectionProp name="Arguments.arguments">
                 <elementProp name="" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">{&quot;tipo&quot;:&quot;REC&quot;,&quot;data_transacao&quot;:&quot;06/09/2022&quot;,&quot;data_pagamento&quot;:&quot;06/09/2022&quot;,&quot;descricao&quot;:&quot;MOVIMENTACAO TESTE ${__RandomString(5,abcdefghijklmnopqrstuvwxyz,)}&quot;,&quot;valor&quot;:&quot;${__Random(000,999)}&quot;,&quot;envolvido&quot;:&quot;Ben-Hur Jeffer&quot;,&quot;conta_id&quot;:&quot;${contaId}&quot;,&quot;status&quot;:false}</stringProp>
+                  <stringProp name="Argument.value">{&quot;tipo&quot;:&quot;REC&quot;,&quot;data_transacao&quot;:&quot;06/09/2022&quot;,&quot;data_pagamento&quot;:&quot;06/09/2022&quot;,&quot;descricao&quot;:&quot;MOVIMENTACAO TESTE ${__Random(1,9)}&quot;,&quot;valor&quot;:&quot;${__Random(121,934)}&quot;,&quot;envolvido&quot;:&quot;Ben-Hur Jeffer&quot;,&quot;conta_id&quot;:&quot;${contaId}&quot;,&quot;status&quot;:false}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
               </collectionProp>
@@ -204,7 +204,7 @@
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
             <stringProp name="HTTPSampler.path">/transacoes</stringProp>
             <stringProp name="HTTPSampler.method">POST</stringProp>
-            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+            <boolProp name="HTTPSampler.follow_redirects">false</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
             <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
             <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
